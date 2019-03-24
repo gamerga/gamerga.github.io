@@ -3,7 +3,7 @@ layout: post
 title:  League of Legends - Tìm hiểu về lính
 date:   2019-03-24 16:03:30 +0300
 image:  minions.jpg
-tags:   leagueoflegends
+tags:   LeagueofLegends
 ---
 
 Là trái tim và linh hồn của đội. Những chiến binh nhỏ này dũng cảm lao vào cái chết để bảo vệ đội bạn và nhanh chóng hạ gục kẻ địch. Chúng ta hãy cùng tìm hiểu những thành phần của một đợt lính, đường đi của chúng và cách chúng giao chiến nhé. 

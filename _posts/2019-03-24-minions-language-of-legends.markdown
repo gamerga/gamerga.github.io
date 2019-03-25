@@ -2,7 +2,7 @@
 layout: post
 title:  League of Legends - Tìm hiểu về lính
 date:   2019-03-24 16:03:30 +0300
-image:  minions.png
+image:  minions.jpg
 tags:   LeagueofLegends
 ---
 

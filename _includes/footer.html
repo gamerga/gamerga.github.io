@@ -4,7 +4,7 @@
       <div class="col col-12">
         <div class="footer-top">
           <h2 class="logo-title">
-            <a href="{{site.baseurl}}/" class="logo-text">Galada</a>
+            <a href="{{site.baseurl}}/" class="logo-text">GàGamer</a>
           </h2>
           <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
         </div>
@@ -15,7 +15,11 @@
           <div class="footer-social">
             <ul class="list-reset">
               {% if site.facebook %}
-              <li><a href="{{ site.facebook }}">Facebook</a></li>
+              <li><a href="{{ site.facebook }}">GàGamer Facebook</a></li>
+              {% else %} {% endif %}
+              
+              {% if site.youtube %}
+              <li><a href="{{ site.youtube }}">GàGamer Youtube</a></li>
               {% else %} {% endif %}
 
               {% if site.twitter %}
